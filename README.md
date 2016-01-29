@@ -1,10 +1,8 @@
 # react-minimal
 
-Minimal boilerplate with React and Webpack.
+Minimal boilerplate with React and Webpack in ES6.
 
-### How to use
-
-###### Installation
+### Installation
 
 Make sure webpack is global.
 
@@ -14,7 +12,7 @@ Install dependencies.
 
     npm install
 
-###### Compile
+### Code compilation
 
     webpack --progress
 
