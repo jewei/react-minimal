@@ -1,6 +1,6 @@
 # react-minimal
 
-Minimal boilerplate with React and Webpack in ES6.
+Minimal boilerplate with React and Webpack in ECMAScript 2015 (ES6).
 
 ### Installation
 
@@ -12,7 +12,7 @@ Install dependencies.
 
     npm install
 
-### Code compilation
+### Bundling
 
     webpack --progress
 
@@ -21,3 +21,11 @@ Install dependencies.
     npm init
     npm install react react-dom --save
     npm install babel-core babel-loader babel-preset-es2015 babel-preset-react webpack --save-dev
+
+### Coming soon but not so soon
+
+* Bootstrap CSS
+* Concurrently
+* ESLint
+* Mocha/Karma
+* Redux
