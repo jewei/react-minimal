@@ -1,0 +1,24 @@
+{
+  "name": "react-minimal",
+  "version": "0.0.1",
+  "description": "Minimal boiletplate with React and Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jewei/react-minimal.git"
+  },
+  "keywords": [
+    "minimal",
+    "react",
+    "webpack"
+  ],
+  "author": "Jewei Mak <jewei.mak@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jewei/react-minimal/issues"
+  },
+  "homepage": "https://github.com/jewei/react-minimal#readme"
+}
