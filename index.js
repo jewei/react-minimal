@@ -10,8 +10,6 @@ class App extends React.Component {
 }
 
 ReactDom.render(
-  (
-    <App />
-  ),
+  <App />,
   document.getElementById('root')
 );
