@@ -2,7 +2,23 @@
 
 Minimal boilerplate with React and Webpack.
 
-## What I did so far
+### How to use
+
+###### Installation
+
+Make sure webpack is global.
+
+    npm install -g webpack
+
+Install dependencies.
+
+    npm install
+
+###### Compile
+
+    webpack --progress
+
+### What I did so far
 
     npm init
     npm install react react-dom --save
